@@ -10,7 +10,7 @@ const Header = () => {
         <Avatar seed='Support agent' />
         <div className='space-y-1'>
           <h1>Ai Assistent</h1>
-          <h2 className='text-sm'>Your Customisable AI Chat Agent</h2>
+          <h2 className='text-sm'>Ваш настраиваемый AI чат-агент</h2>
         </div>
       </Link>
 
