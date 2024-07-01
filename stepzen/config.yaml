@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-wild-dream-a2qgpofv.eu-central-1.aws.neon.tech/assistentsdb?user=assistentsdb_owner&password=YBG4cjMh3VPm

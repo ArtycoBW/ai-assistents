@@ -22,6 +22,8 @@ const CreateChatbot = () => {
           />
           <Button>Создать чат-бота</Button>
         </form>
+
+        <p className='text-gray-300 mt-5'>Example: Customer Support Chatbot</p>
       </div>
     </div>
   )
